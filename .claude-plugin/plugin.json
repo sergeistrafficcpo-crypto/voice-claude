@@ -1,0 +1,6 @@
+{
+  "name": "voice-mac",
+  "version": "0.1.0",
+  "description": "Voice-activated Claude Code interface for macOS. Hold Right Option to talk, Claude responds via voice.",
+  "keywords": ["voice", "macos", "channel", "tts", "speech"]
+}
